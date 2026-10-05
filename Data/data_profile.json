@@ -1,0 +1,16 @@
+{
+  "records": 1048575,
+  "columns": 9,
+  "start": "2006-12-16 17:24:00",
+  "end": "2008-12-13 21:38:00",
+  "missing_numeric_cells": 28483,
+  "rows_with_missing": 4069,
+  "rows_with_missing_pct": 0.388,
+  "duplicates": 0,
+  "duplicate_datetimes": 0,
+  "one_minute_interval_pct": 100.0,
+  "longest_missing_streak_min": 3723,
+  "longest_missing_streak_hours": 62.0,
+  "usable_days_90pct_coverage": 725,
+  "usable_hours_90pct_coverage": 17402
+}
