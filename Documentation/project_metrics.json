@@ -1,0 +1,17 @@
+{
+  "records": 1048575,
+  "missing_rows_pct": 0.388,
+  "usable_days": 725,
+  "usable_hours": 17402,
+  "avg_daily_kwh": 26.57174891954023,
+  "weekend_uplift_pct": 22.02806404722395,
+  "best_model": "Gradient Boosting",
+  "best_r2": 0.6566952956442806,
+  "best_mae": 0.3435021271526886,
+  "mae_reduction_pct": 39.99609017169264,
+  "rf_class_accuracy": 0.8041958041958042,
+  "rf_class_recall": 0.48,
+  "lstm_r2": 0.583804537589258,
+  "cluster_profiles": 723,
+  "clusters": 3
+}
